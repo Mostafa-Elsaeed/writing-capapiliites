@@ -1,0 +1,6 @@
+@zrustra_features_HostAddress = http://localhost:5186
+
+GET {{zrustra_features_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
